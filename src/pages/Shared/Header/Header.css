@@ -1,0 +1,11 @@
+.default:hover {
+  color: black;
+}
+
+.active {
+  color: orange;
+}
+
+.inActive {
+  color: black;
+}
