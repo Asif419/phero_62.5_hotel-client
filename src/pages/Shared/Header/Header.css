@@ -1,5 +1,5 @@
 .default:hover {
-  color: black;
+  color: yellow;
 }
 
 .active {
@@ -7,5 +7,5 @@
 }
 
 .inActive {
-  color: black;
+  color: white;
 }
